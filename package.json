@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "description": "Playing w/ RabbitMQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suprsidr/rabbitmq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suprsidr/rabbitmq/issues"
+  },
+  "homepage": "https://github.com/suprsidr/rabbitmq#readme",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
